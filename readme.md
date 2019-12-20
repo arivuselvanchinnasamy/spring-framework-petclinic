@@ -212,7 +212,7 @@ Here is a list of them:
 The [issue tracker](/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
 
 For pull requests, editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
-
+[![Run on Repl.it](https://repl.it/badge/github/spring-petclinic/spring-framework-petclinic)](https://repl.it/github/spring-petclinic/spring-framework-petclinic)
 
 
 
